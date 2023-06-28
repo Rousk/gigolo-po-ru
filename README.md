@@ -13,4 +13,4 @@ gigolo translation ru.
 
 1) sudo-s
 
-2)#  mkdir /tmp/dowl && cd /tmp/dowl && git clone https://github.com/Rousk/gigolo-po-ru.git && cd gigolo-po-ru && mv gigolo.mo  /usr/share/locale/ru/LC_MESSAGES/ && cd /tmp && rm -R dowl && exit
+2) #  mkdir /tmp/dowl && cd /tmp/dowl && git clone https://github.com/Rousk/gigolo-po-ru.git && cd gigolo-po-ru && mv gigolo.mo  /usr/share/locale/ru/LC_MESSAGES/ && cd /tmp && rm -R dowl && exit
