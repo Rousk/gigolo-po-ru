@@ -21,3 +21,5 @@ gigolo translation ru.
 вторая команда выполняется от root, вся одной строкой. 
 
 2: mkdir /tmp/dowl && cd /tmp/dowl && git clone https://github.com/Rousk/gigolo-po-ru.git && cd gigolo-po-ru && mv gigolo.mo  /usr/share/locale/ru/LC_MESSAGES/ && cd /tmp && rm -R dowl && exit
+
+[URL=https://fastpic.org/view/122/2023/0628/66a45a585281a198c57c53f84e433ee9.png.html][IMG]https://i122.fastpic.org/thumb/2023/0628/e9/66a45a585281a198c57c53f84e433ee9.jpeg[/IMG][/URL]
