@@ -22,4 +22,7 @@ gigolo translation ru.
 
 2: mkdir /tmp/dowl && cd /tmp/dowl && git clone https://github.com/Rousk/gigolo-po-ru.git && cd gigolo-po-ru && mv gigolo.mo  /usr/share/locale/ru/LC_MESSAGES/ && cd /tmp && rm -R dowl && exit
 
-[URL=https://fastpic.org/view/122/2023/0628/66a45a585281a198c57c53f84e433ee9.png.html][IMG]https://i122.fastpic.org/thumb/2023/0628/e9/66a45a585281a198c57c53f84e433ee9.jpeg[/IMG][/URL]
+ссылка на скриншот
+
+https://i122.fastpic.org/big/2023/0628/a1/2dfff5134cf9258fd8296a8e978c26a1.png?md5=pqpQTGteWkF4_xplXBpntg&expires=1687917600
+
