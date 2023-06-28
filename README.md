@@ -1,4 +1,4 @@
-# gigolo-po-mo ru
+# gigolo .po .mo ru
 gigolo translation ru.
 
 Файлы русский перевод gigolo .po .mo
