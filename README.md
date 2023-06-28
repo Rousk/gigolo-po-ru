@@ -16,8 +16,8 @@ gigolo translation ru.
 
 1: sudo-s
 
-после этой команды ведите пароль 
+после этой команды ведите пароль. 
 
-вторая команда выполняется от root, вся одной строкой 
+вторая команда выполняется от root, вся одной строкой. 
 
 2: mkdir /tmp/dowl && cd /tmp/dowl && git clone https://github.com/Rousk/gigolo-po-ru.git && cd gigolo-po-ru && mv gigolo.mo  /usr/share/locale/ru/LC_MESSAGES/ && cd /tmp && rm -R dowl && exit
